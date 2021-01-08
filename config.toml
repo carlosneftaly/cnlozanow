@@ -13,6 +13,9 @@ title = "Carlos N. Lozano-Andrade"
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = ""
 
+
+googleAnalytics = "UA-105091107-1"
+
 # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
  customCSS = ["/css/mystyle.css"]
